@@ -1,3 +1,0 @@
-c.lo: ../c.c ../static.h
-
-../static.h:

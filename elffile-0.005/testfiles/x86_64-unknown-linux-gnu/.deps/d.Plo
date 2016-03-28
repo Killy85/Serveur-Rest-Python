@@ -1,3 +1,0 @@
-d.lo: ../d.c ../dynamic.h
-
-../dynamic.h:
